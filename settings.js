@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "allchats",
+  WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɴᴇᴛʜᴍɪɴᴀ ᴏꜰᴄ',
   STICKER_PACK : '[ NETHMINA OFC ]',
