@@ -1,4 +1,4 @@
-/*
+u/*
 
 
 ███████╗██╗░░░██╗░██████╗██╗░░░██╗░█████╗░░█████╗░  ░░░░░░  ███╗░░░███╗██████╗░
@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94706369728",
+  SUDO_NUMBERS : "94760127262",
+  OWNER_NAME: "『 𝙽ᴇᴛʜᴍɪɴᴀ 𝐎ꜰᴄ 』",
+  BOT_NAME : "ＺＵＳＹＣＯ ＢＹ ＮＥＴＨＭＩＮＡ ＯＦＣ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/cda08a61ea8de666f1227.jpg',
@@ -33,8 +33,8 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
+  WORK_MODE : "allchats",
+  WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɴᴇᴛʜᴍɪɴᴀ ᴏꜰᴄ',
   STICKER_PACK : '[ NETHMINA OFC ]',
   BAD_WORDS : 'fuck,pussy,sex,nude',
